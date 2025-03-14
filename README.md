@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amine</h1>
 <h3 align="center">A SWE intern at Glaium who graduated from NYU</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
